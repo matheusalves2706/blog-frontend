@@ -1,8 +1,15 @@
 # Roteiro do vídeo de apresentação
 
-Guia para gravar a demonstração do front-end (sugestão de 10 a 12 minutos). Adapte os tempos e a divisão de falas entre a equipe.
+Guia para gravar a demonstração do front-end. Há duas versões prontas: este roteiro detalhado (sugestão de 10 a 12 minutos) e o texto de narração para leitura direta em [`NARRACAO_VIDEO.md`](NARRACAO_VIDEO.md) (≈ 6 minutos). Escolham conforme o limite de tempo da turma.
 
-O texto de narração pronto para leitura, com falas por tempo de vídeo, está em [`NARRACAO_VIDEO.md`](NARRACAO_VIDEO.md).
+---
+
+## Duração do vídeo
+
+- O enunciado deste Tech Challenge **não define tempo mínimo** (pede apenas a demonstração do funcionamento com detalhes técnicos de implementação). Confirme no enunciado oficial/portal da FIAP ou com o(a) professor(a) se existe um **limite máximo ou faixa obrigatória** — valores entre 10 e 15 minutos são comuns.
+- Se nada for especificado: use o texto narrado de **≈ 6 minutos** ([`NARRACAO_VIDEO.md`](NARRACAO_VIDEO.md)) ou este roteiro estendido de **10 a 12 minutos**, se quiser cobrir Docker/CI e responsividade com calma.
+- **Versão curta (até ~5 min):** siga a narração e corte a página 404, o passo a passo de responsividade e a demo do Docker (apenas cite-os).
+- Verifique também regras comuns: todos os integrantes precisam aparecer/falar? Formato/link de entrega obrigatório? Qual o prazo?
 
 ---
 
