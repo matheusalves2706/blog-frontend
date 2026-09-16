@@ -2,6 +2,8 @@
 
 Guia para gravar a demonstração do front-end (sugestão de 10 a 12 minutos). Adapte os tempos e a divisão de falas entre a equipe.
 
+O texto de narração pronto para leitura, com falas por tempo de vídeo, está em [`NARRACAO_VIDEO.md`](NARRACAO_VIDEO.md).
+
 ---
 
 ## Antes de gravar
