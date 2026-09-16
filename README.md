@@ -80,7 +80,7 @@ Recursos adicionais implementados:
 
 ```bash
 # 1. Clone o repositório
-git clone <url-do-repositorio> blog-frontend
+git clone https://github.com/matheusalves2706/blog-frontend.git blog-frontend
 cd blog-frontend
 
 # 2. Instale as dependências

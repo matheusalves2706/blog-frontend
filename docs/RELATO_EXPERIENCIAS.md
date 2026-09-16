@@ -10,7 +10,7 @@
 | --- | --- |
 | Curso / turma | _a preencher_ |
 | Integrantes | _nome — responsabilidade principal no projeto_ |
-| Repositório do front-end | _link_ |
+| Repositório do front-end | https://github.com/matheusalves2706/blog-frontend |
 | Repositório do back-end | _link_ |
 | Link do vídeo de apresentação | _link_ |
 
