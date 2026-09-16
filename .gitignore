@@ -1,0 +1,20 @@
+# Dependências
+node_modules/
+
+# Build
+dist/
+coverage/
+
+# Variáveis de ambiente locais (mantenha o .env.example versionado)
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operacional / editores
+.DS_Store
+Thumbs.db
+.idea/

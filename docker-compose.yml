@@ -1,0 +1,13 @@
+services:
+  frontend:
+    build:
+      context: .
+      args:
+        # Atenção: a URL da API é embutida no bundle em tempo de build.
+        # Altere aqui (ou defina a variável VITE_API_URL no ambiente) e recompile.
+        VITE_API_URL: ${VITE_API_URL:-http://localhost:3000}
+    image: blog-frontend:latest
+    container_name: blog-frontend
+    ports:
+      - "${PORT:-8080}:80"
+    restart: unless-stopped
